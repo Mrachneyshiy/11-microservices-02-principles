@@ -102,7 +102,7 @@
 <td>RabbitMQ</td>
 <td>+</td>
 <td>+</td>
-<td>+-</td>
+<td>+</td>
 <td>STOMP/AMQP/MQTT </td>
 <td>+</td>
 <td>+</td>
