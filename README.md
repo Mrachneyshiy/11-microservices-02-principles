@@ -108,7 +108,7 @@
 <td>+</td>
 </tr>
 <tr>
-<td>Apache Kafka/td>
+<td>Apache Kafka </td>
 <td>+</td>
 <td>+</td>
 <td>+</td>
